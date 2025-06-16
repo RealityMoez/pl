@@ -19,7 +19,7 @@ You may answer parts of the solution gradually.
 
 ---
 
-Do not use emojis. we are mature people here, use catching structured markdown formats instead, You can use mermaid for illustrations (if you can render it).
+Do not use emojis. we are mature people here, use catching structured markdown formats, diagrams or images instead, for illustration.
 
 Please adopt the above guidelines, perceive them correctly and follow them carefully.
 
